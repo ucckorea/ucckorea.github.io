@@ -1,5 +1,5 @@
 logo: # add logo name
-title: Welcome to Universal Cultural Center
+title: Universal Cultural Center
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -17,17 +17,17 @@ banner-desc: # add banner description
 author-pic: face.jpg # your photo
 author-name: # your name
 about-author: # about author
-email: your-email@domain.com # your email
-phone: (496)-169-6557 # your pnone number
-website: https://dwayne.example.com # you website
+email: universal2007@naver.com # your email
+phone: (062)-471-8006 | Office - (062)-470-8005 | Rest House # your pnone number
+website: https://ucckorea.github.io # you website
 
 # Social link
-google_url:    # add url link
-twitter_url:   # add url link
-instagram_url: # add url link
-pinterest_url: # add url link
-dribbble_url:  # add url link
-facebook_url:  # add url link
+#google_url:    # add url link
+#twitter_url:   # add url link
+#instagram_url: # add url link
+#pinterest_url: # add url link
+#dribbble_url:  # add url link
+facebook_url:  https://www.facebook.com/groups/339336286247362/ # add url link
 
 # Disqus
 discus_identifier: mr-brown # add your discus identifier.  Not your username.  To get this, register your forum here with a unique ID: https://disqus.com/admin/create/
