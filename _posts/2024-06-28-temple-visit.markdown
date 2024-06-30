@@ -2,7 +2,7 @@
 layout: post
 title: "Temple Visit"
 img: temple.jpg # Add image post (optional)
-date: 2024-06-30 12:55:00 +0300
+date: 2024-06-28 12:55:00 +0300
 description: Temple Visit
 tag: [Travel, Blogging, Mountains]
 ---
