@@ -9,7 +9,7 @@ tag: [Travel, Blogging, Mountains]
 
 Temple Visit
 
-![Temple Visit](https://ucckorea.github.io/assets/temple/1.jpg)
+<img src="https://ucckorea.github.io/assets/temple/1.jpg" alt="Temple Visit" style="max-width: 100%; height: auto;">
 ![Temple Visit](https://ucckorea.github.io/assets/temple/2.jpg)
 ![Temple Visit](https://ucckorea.github.io/assets/temple/3.jpg)
 ![Temple Visit](https://ucckorea.github.io/assets/temple/4.jpg)
