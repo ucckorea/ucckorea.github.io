@@ -1,16 +1,14 @@
 logo: # add logo name
 title: Universal Cultural Center (UCC Korea)
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Universal Cultural Center (UCC Korea).
 permalink: ':title/'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
-video: mountains.jpg # add banner video. Add your video file to the folder video
-banner-title: # add banner title
+# video: mountains.jpg # add banner video. Add your video file to the folder video
+banner-title: Universal Cultural Center (UCC Korea) # add banner title
 banner-desc: # add banner description
 
 # Author settings
@@ -30,7 +28,7 @@ website: https://ucckorea.github.io # you website
 facebook_url:  https://www.facebook.com/groups/339336286247362/ # add url link
 
 # Disqus
-discus_identifier: mr-brown # add your discus identifier.  Not your username.  To get this, register your forum here with a unique ID: https://disqus.com/admin/create/
+#discus_identifier: mr-brown # add your discus identifier.  Not your username.  To get this, register your forum here with a unique ID: https://disqus.com/admin/create/
 
 # Newsletter
 mailchimp: # add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
