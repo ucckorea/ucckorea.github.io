@@ -1,9 +1,25 @@
 ---
 layout: post
-title: "Tax Department Files"
-date: 2024-06-30 12:55:00 +0300
-description: Tax Department Files
+title: "Tax Files"
+img: tax.jpg # Add image post (optional)
+date: 2024-06-29 12:55:00 +0300
+description: Tax Files
 tag: [Travel, Blogging, Mountains]
 ---
 
-09월 운영위원회 회의 자료.hwp
+This is a list of tax files:
+
+[09월 운영위원회 회의 자료](https://ucckorea.github.io/assets/tax/09월%20운영위원회%20회의%20자료.hwp)
+[2023년 07월 운영위원회 회의 자료](https://ucckorea.github.io/assets/tax/2023년%2007월%20운영위원회%20회의%20자료.hwp)
+[2023년 08월 운영위원회 회의 자료](https://ucckorea.github.io/assets/tax/2023년%2008월%20운영위원회%20회의%20자료.hwp)
+[2023년 10월 운영위원회 회의 자료](https://ucckorea.github.io/assets/tax/2023년%2010월%20운영위원회%20회의%20자료.hwp)
+[2023년 11월 운영위원회 회의 자료](https://ucckorea.github.io/assets/tax/2023년%2011월%20운영위원회%20회의%20자료.hwp)
+[2023년 12월 운영위원회 회의 자료](https://ucckorea.github.io/assets/tax/2023년%2012월%20운영위원회%20회의%20자료.hwp)
+[2023년_1월_운영위원회_회의자료_번역_완료_유니버설문화원](https://ucckorea.github.io/assets/tax/2023년_1월_운영위원회_회의자료_번역_완료_유니버설문화원.hwp)
+[2023년_2월_운영위원회_회의자료_유니버설문화원](https://ucckorea.github.io/assets/tax/2023년_2월_운영위원회_회의자료_유니버설문화원.hwp)
+[2024년 1월 운영회의 자료(최종)](https://ucckorea.github.io/assets/tax/2024년%201월%20운영회의%20자료(최종).hwp)
+[2024년 2월 운영위원 회의(최종)](https://ucckorea.github.io/assets/tax/2024년%202월%20운영위원%20회의(최종).hwp)
+[2024년 3월 운영위원 회의(03.04 최종)](https://ucckorea.github.io/assets/tax/2024년%203월%20운영위원%20회의(03.04%20최종).hwp)
+[2024년 4월 운영위원 회의(04.11 수정)](https://ucckorea.github.io/assets/tax/2024년%204월%20운영위원%20회의(04.11%20수정).hwp)
+[2024년 5월 운영위원 회의(05.02 수정)](https://ucckorea.github.io/assets/tax/2024년%205월%20운영위원%20회의(05.02%20수정).hwp)
+[2024년 6월 운영위원 회의](https://ucckorea.github.io/assets/tax/2024년%206월%20운영위원%20회의.hwp)
